@@ -1,6 +1,6 @@
 /*
-* Problema
-* - Pedir para o usuário digitar um número e mostrar a tabuada desse numero de 1 a 1000.*/
+ * Problema
+ * - Pedir para o usuário digitar um número e mostrar a tabuada desse numero de 1 a 1000.*/
 
 import java.util.Scanner;
 
